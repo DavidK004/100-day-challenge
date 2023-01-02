@@ -103,7 +103,8 @@ function getDataDavid() {
             new Title(26, "Spy x Family"),
             new Title(27, "Yona of the Dawn"),
             new Title(28, "Question not related to a specific title"),
-            new Title(29, "Spirited Away")
+            new Title(29, "Spirited Away"),
+            new Title(30, "Drifters")
         ],
 
         // Мой список
@@ -481,6 +482,20 @@ function getDataDavid() {
                 link: "https://anilist.co/activity/497373692",
                 image: "images/challenge/asilentvoice.jpg",
                 content: [1]
+            },
+            // 54 Day
+            {
+                title: "Recommend one anime that most people may not have seen",
+                link: "https://anilist.co/activity/497829013",
+                image: "images/challenge/drifters.jpg",
+                content: [30]
+            },
+             // 55 Day
+             {
+                title: "Do you share your anime interests with anyone?",
+                link: "https://anilist.co/activity/498274106",
+                image: "images/challenge/noimg.png",
+                content: [28]
             },
         ]
 
