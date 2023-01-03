@@ -497,6 +497,13 @@ function getDataDavid() {
                 image: "images/challenge/noimg.png",
                 content: [28]
             },
+            // 56 Day
+             {
+                title: "Your favorite character",
+                link: "https://anilist.co/activity/498955949",
+                image: "images/challenge/hellsing.jpg",
+                content: [2]
+            },
         ]
 
     }
