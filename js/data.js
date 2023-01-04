@@ -504,6 +504,13 @@ function getDataDavid() {
                 image: "images/challenge/hellsing.jpg",
                 content: [2]
             },
+             // 57 Day
+             {
+                title: "What anime has your heart",
+                link: "https://anilist.co/activity/499518238",
+                image: "images/challenge/aprillie.jpg",
+                content: [11]
+            },
         ]
 
     }
