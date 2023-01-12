@@ -511,6 +511,55 @@ function getDataDavid() {
                 image: "images/challenge/aprillie.jpg",
                 content: [11]
             },
+            // 58 Day
+             {
+                title: "Favorite hentai",
+                link: "https://anilist.co/activity/500133329",
+                image: "images/challenge/noimg.png",
+                content: [28]
+            },
+            // 59 Day
+             {
+                title: "Favorite yaoi",
+                link: "https://anilist.co/activity/501511268",
+                image: "images/challenge/noimg.png",
+                content: [28]
+            },
+            // 60 Day
+            {
+                title: "What manga would you like an anime adaptation for",
+                link: "https://anilist.co/activity/501514349",
+                image: "images/challenge/dandadan.jpg",
+                content: [15]
+            },
+            // 61 Day
+            {
+                title: "What current anime are you watching",
+                link: "https://anilist.co/activity/501800208",
+                image: "images/challenge/iruma.jpg",
+                content: [10, 20]
+            },
+            // 62 Day
+            {
+                title: "Favorite anime movie",
+                link: "https://anilist.co/activity/502345669",
+                image: "images/challenge/asilentvoice.jpg",
+                content: [1]
+            },
+            // 63 Day
+            {
+                title: "Favorite shounen",
+                link: "https://anilist.co/activity/503341554",
+                image: "images/challenge/spyfamily.jpg",
+                content: [26]
+            },
+            // 64 Day
+            {
+                title: "Favorite shoujo",
+                link: "https://anilist.co/activity/503654170",
+                image: "images/challenge/yona.jpg",
+                content: [27]
+            },
         ]
 
     }
