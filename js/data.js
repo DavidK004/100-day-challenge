@@ -104,7 +104,10 @@ function getDataDavid() {
             new Title(27, "Yona of the Dawn"),
             new Title(28, "Question not related to a specific title"),
             new Title(29, "Spirited Away"),
-            new Title(30, "Drifters")
+            new Title(30, "Drifters"),
+            new Title(31, "Bocchi the Rock!"),
+            new Title(32, "Code Geass"),
+            new Title(33, "Vinland Saga")
         ],
 
         // Мой список
@@ -559,6 +562,41 @@ function getDataDavid() {
                 link: "https://anilist.co/activity/503654170",
                 image: "images/challenge/yona.jpg",
                 content: [27]
+            },
+            // 65 Day
+            {
+                title: "A sports anime",
+                link: "https://anilist.co/activity/504337714",
+                image: "images/challenge/grandblue.jpg",
+                content: [16]
+            },
+            // 66 Day
+            {
+                title: "A slice of life anime",
+                link: "https://anilist.co/activity/504881943",
+                image: "images/challenge/bocchi.jpg",
+                content: [31]
+            },
+            // 67 Day
+            {
+                title: "A comedy anime",
+                link: "https://anilist.co/activity/505392758",
+                image: "images/challenge/konosuba.jpg",
+                content: [12]
+            },
+            // 68 Day
+            {
+                title: "A SciFi/Mech anime",
+                link: "https://anilist.co/activity/506184860",
+                image: "images/challenge/geass.jpg",
+                content: [32]
+            },
+            // 69 Day
+            {
+                title: "An action/adventure anime",
+                link: "https://anilist.co/activity/506192465",
+                image: "images/challenge/vinland.jpg",
+                content: [33]
             },
         ]
 
