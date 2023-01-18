@@ -107,7 +107,8 @@ function getDataDavid() {
             new Title(30, "Drifters"),
             new Title(31, "Bocchi the Rock!"),
             new Title(32, "Code Geass"),
-            new Title(33, "Vinland Saga")
+            new Title(33, "Vinland Saga"),
+            new Title(34, "Saga of Tanya the Evil")
         ],
 
         // Мой список
@@ -597,6 +598,13 @@ function getDataDavid() {
                 link: "https://anilist.co/activity/506192465",
                 image: "images/challenge/vinland.jpg",
                 content: [33]
+            },
+            // 70 Day
+            {
+                title: "A fantasy anime",
+                link: "https://anilist.co/activity/506876874",
+                image: "images/challenge/tanya.jpg",
+                content: [34]
             },
         ]
 
