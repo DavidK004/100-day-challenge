@@ -108,7 +108,9 @@ function getDataDavid() {
             new Title(31, "Bocchi the Rock!"),
             new Title(32, "Code Geass"),
             new Title(33, "Vinland Saga"),
-            new Title(34, "Saga of Tanya the Evil")
+            new Title(34, "Saga of Tanya the Evil"),
+            new Title(35, "My Dress-Up Darling"),
+            new Title(36, "Fruits Basket")
         ],
 
         // Мой список
@@ -605,6 +607,69 @@ function getDataDavid() {
                 link: "https://anilist.co/activity/506876874",
                 image: "images/challenge/tanya.jpg",
                 content: [34]
+            },
+            // 71 Day
+            {
+                title: "A romance anime",
+                link: "https://anilist.co/activity/507306081",
+                image: "images/challenge/dressup.jpg",
+                content: [35]
+            },
+            // 72 Day
+            {
+                title: "An overrated series",
+                link: "https://anilist.co/activity/507598694",
+                image: "images/challenge/fruits.jpg",
+                content: [36]
+            },
+            // 73 Day
+            {
+                title: "An underrated series",
+                link: "https://anilist.co/activity/508215874",
+                image: "images/challenge/drifters.jpg",
+                content: [30]
+            },
+            // 74 Day
+            {
+                title: "Series that got you into anime",
+                link: "https://anilist.co/activity/509106490",
+                image: "images/challenge/attackontitan.jpg",
+                content: [0]
+            },
+            // 75 Day
+            {
+                title: "Favorite friendship",
+                link: "https://anilist.co/activity/509108521",
+                image: "images/challenge/tokyoghoul.jpg",
+                content: [6]
+            },
+            // 76 Day
+            {
+                title: "Favorite bromance",
+                link: "https://anilist.co/activity/509619096",
+                image: "images/challenge/grandblue.jpg",
+                content: [16]
+            },
+            // 77 Day
+            {
+                title: "Favorite rivalry",
+                link: "https://anilist.co/activity/510050766",
+                image: "images/challenge/deathnote.jpg",
+                content: [14]
+            },
+            // 78 Day
+            {
+                title: "Favorite team",
+                link: "https://anilist.co/activity/510964101",
+                image: "images/challenge/konosuba.jpg",
+                content: [12]
+            },
+            // 79 Day
+            {
+                title: "Favorite quote",
+                link: "https://anilist.co/activity/510969391",
+                image: "images/challenge/fmab.png",
+                content: [9]
             },
         ]
 
