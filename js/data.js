@@ -110,7 +110,8 @@ function getDataDavid() {
             new Title(33, "Vinland Saga"),
             new Title(34, "Saga of Tanya the Evil"),
             new Title(35, "My Dress-Up Darling"),
-            new Title(36, "Fruits Basket")
+            new Title(36, "Fruits Basket"),
+            new Title(37, "Record of Ragnarok")
         ],
 
         // Мой список
@@ -670,6 +671,41 @@ function getDataDavid() {
                 link: "https://anilist.co/activity/510969391",
                 image: "images/challenge/fmab.png",
                 content: [9]
+            },
+            // 80 Day
+            {
+                title: "Favorite scene",
+                link: "https://anilist.co/activity/511634624",
+                image: "images/challenge/asilentvoice.jpg",
+                content: [1]
+            },
+            // 81 Day
+            {
+                title: "Favorite episode",
+                link: "https://anilist.co/activity/512187808",
+                image: "images/challenge/deathnote.jpg",
+                content: [14]
+            },
+            // 82 Day
+            {
+                title: "Most annoying anime character",
+                link: "https://anilist.co/activity/512690965",
+                image: "images/challenge/ragnarok.jpg",
+                content: [37]
+            },
+            // 83 Day
+            {
+                title: "An ecchi picture from your favorite series",
+                link: "https://anilist.co/activity/512933198",
+                image: "images/challenge/grandblue.jpg",
+                content: [16]
+            },
+            // 84 Day
+            {
+                title: "Most recent anime wallpaper",
+                link: "https://anilist.co/activity/510969391",
+                image: "images/challenge/berserk.jpg",
+                content: [2, 3, 30]
             },
         ]
 
