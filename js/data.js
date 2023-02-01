@@ -703,7 +703,7 @@ function getDataDavid() {
             // 84 Day
             {
                 title: "Most recent anime wallpaper",
-                link: "https://anilist.co/activity/510969391",
+                link: "https://anilist.co/activity/513404412",
                 image: "images/challenge/berserk.jpg",
                 content: [2, 3, 30]
             },
