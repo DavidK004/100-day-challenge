@@ -707,6 +707,27 @@ function getDataDavid() {
                 image: "images/challenge/berserk.jpg",
                 content: [2, 3, 30]
             },
+            // 85 Day
+            {
+                title: "Favorite shoujo",
+                link: "https://anilist.co/activity/514265754",
+                image: "images/challenge/yona.jpg",
+                content: [27]
+            },
+            // 86 Day
+            {
+                title: "Favorite yandere",
+                link: "https://anilist.co/activity/514268288",
+                image: "images/challenge/attackontitan.jpg",
+                content: [0]
+            },
+            // 87 Day
+            {
+                title: "Favorite hero",
+                link: "https://anilist.co/activity/514826614",
+                image: "images/challenge/berserk.jpg",
+                content: [6]
+            },
         ]
 
     }
