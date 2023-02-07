@@ -726,7 +726,7 @@ function getDataDavid() {
             {
                 title: "Favorite hero",
                 link: "https://anilist.co/activity/514826614",
-                image: "images/challenge/berserk.jpg",
+                image: "images/challenge/tokyoghoul.jpg",
                 content: [6]
             },
             // 88 Day
