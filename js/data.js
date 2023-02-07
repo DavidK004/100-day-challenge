@@ -111,7 +111,8 @@ function getDataDavid() {
             new Title(34, "Saga of Tanya the Evil"),
             new Title(35, "My Dress-Up Darling"),
             new Title(36, "Fruits Basket"),
-            new Title(37, "Record of Ragnarok")
+            new Title(37, "Record of Ragnarok"),
+            new Title(38, "Spice and Wolf")
         ],
 
         // Мой список
@@ -727,6 +728,27 @@ function getDataDavid() {
                 link: "https://anilist.co/activity/514826614",
                 image: "images/challenge/berserk.jpg",
                 content: [6]
+            },
+            // 88 Day
+            {
+                title: "Favorite school uniform",
+                link: "https://anilist.co/activity/516161449",
+                image: "images/challenge/kaguya.jpg",
+                content: [25]
+            },
+            // 89 Day
+            {
+                title: "Favorite anime OP song",
+                link: "https://anilist.co/activity/516163847",
+                image: "images/challenge/overlord.jpg",
+                content: [21, 6, 11, 16, 38]
+            },
+            // 90 Day
+            {
+                title: "Picture of a character in a swimsuit",
+                link: "https://anilist.co/activity/516165295",
+                image: "images/challenge/grandblue.jpg",
+                content: [16]
             },
         ]
 
