@@ -46,19 +46,19 @@ function getDataDavid() {
                 nickname: "CH1KIM0N1",
                 image: "images/users/CH1KIM0N1.png",
                 url: "https://ch1kim0n1.github.io/100DayChallenge_ch1kim0n1.github.io/",
-                status: Status.Current
+                status: Status.Complete
             },
             {
                 nickname: "SteveDekart",
                 image: "images/users/stevedekart.jpg",
                 url: "https://anilist.co/user/SteveDekart/",
-                status: Status.Current
+                status: Status.Complete
             },
             {
                 nickname: "F41NZ",
                 image: "images/users/F41NZ.jpg",
                 url: "https://anilist.co/user/F41NZ/",
-                status: Status.Current
+                status: Status.Complete
             },
             {
                 nickname: "Ani-Dotes",
@@ -749,6 +749,34 @@ function getDataDavid() {
                 link: "https://anilist.co/activity/516165295",
                 image: "images/challenge/grandblue.jpg",
                 content: [16]
+            },
+             // 91 Day
+             {
+                title: "Favorite attack a character has used",
+                link: "https://anilist.co/activity/517208705",
+                image: "images/challenge/demonslayer.jpg",
+                content: [13]
+            },
+             // 92 Day
+             {
+                title: "Favorite anime of highschool characters",
+                link: "https://anilist.co/activity/517210317",
+                image: "images/challenge/kaguya.jpg",
+                content: [25]
+            },
+             // 93 Day
+             {
+                title: "Hottest anime guy",
+                link: "https://anilist.co/activity/517701144",
+                image: "images/challenge/overlord.jpg",
+                content: [21]
+            },
+             // 94 Day
+             {
+                title: "Favorite nendoroid",
+                link: "https://anilist.co/activity/517900076",
+                image: "images/challenge/hellsing.jpg",
+                content: [2, 31]
             },
         ]
 
