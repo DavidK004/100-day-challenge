@@ -778,6 +778,27 @@ function getDataDavid() {
                 image: "images/challenge/hellsing.jpg",
                 content: [2, 31]
             },
+            // 95 Day
+            {
+                title: "Favorite manga",
+                link: "https://anilist.co/activity/518390791",
+                image: "images/challenge/berserk.jpg",
+                content: [3]
+            },
+            // 96 Day
+            {
+                title: "Anime character frame in your room",
+                link: "https://anilist.co/activity/519158200",
+                image: "images/challenge/noimg.png",
+                content: [28]
+            },
+            // 97 Day
+            {
+                title: "Anime character you want to see in a nightmare",
+                link: "https://anilist.co/activity/519390549",
+                image: "images/challenge/berserk.jpg",
+                content: [3]
+            },
         ]
 
     }
