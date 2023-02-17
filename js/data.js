@@ -813,6 +813,13 @@ function getDataDavid() {
                 image: "images/challenge/dressup.jpg",
                 content: [35]
             },
+            // 100 Day
+            {
+                title: "Confess your love for an anime character (FINAL DAY)",
+                link: "https://anilist.co/activity/520665831",
+                image: "images/challenge/konosuba.jpg",
+                content: [12]
+            },
         ]
 
     }
