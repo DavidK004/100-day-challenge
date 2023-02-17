@@ -799,6 +799,20 @@ function getDataDavid() {
                 image: "images/challenge/berserk.jpg",
                 content: [3]
             },
+            // 98 Day
+            {
+                title: "Male characters best kimono",
+                link: "https://anilist.co/activity/519983039",
+                image: "images/challenge/dressup.jpg",
+                content: [35]
+            },
+            // 99 Day
+            {
+                title: "Female characters best yukata",
+                link: "https://anilist.co/activity/520470500",
+                image: "images/challenge/dressup.jpg",
+                content: [35]
+            },
         ]
 
     }
